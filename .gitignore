@@ -1,0 +1,19 @@
+/node_modules
+
+User 1
+{
+"emailId": "Rohit@gmail.com",
+"password" :"1@3fg154835DEFyuh23"
+}
+
+User 2
+{
+"emailId": "Dhawan@gmail.com",
+"password" :"1@3fDhawanyuh23"
+}
+
+User 3
+{
+"emailId": "Steve@gmail.com",
+"password" :"Steve@123"
+}
